@@ -30,7 +30,7 @@ Hello I am Aachal and i completed the QR code design using HTML and CSS.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL:(https://github.com/aagah20/frontend-Projects/tree/main/1.%20QR-Code)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 
