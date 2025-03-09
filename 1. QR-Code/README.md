@@ -15,7 +15,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 
 ## Overview
-Hello I am Aachal and i completed the QR code design uding HTML and CSS.
+Hello I am Aachal and i completed the QR code design using HTML and CSS.
 
 ### Screenshot
 
