@@ -60,5 +60,5 @@ I want to focus more on responsive layouts and making more websites using JS too
 ## Author
 
 - Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - (https://www.frontendmentor.io/profile/aagah20)
 
