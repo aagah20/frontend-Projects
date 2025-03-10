@@ -25,7 +25,7 @@ Hello I am Aachal and i completed the QR code design using HTML and CSS.
 ![alt text](image-2.png)
 
 ### Desktop Design
-![alt text](image-3.png)
+![alt text](img.png)
 
 
 ### Links
