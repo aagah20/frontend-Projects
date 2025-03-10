@@ -21,12 +21,12 @@ main {
     align-items: center;
     background-color: #fff;
     width: 100%;
-    max-width: 430px;
+    max-width: 420px;
     margin: 0 auto;
     margin-top: 15rem;
     padding: 1rem;
     padding-bottom: 1.8rem;
-    min-height: 480px;
+    min-height: 500px;
     border-radius: 1rem;
     box-shadow: 1px 4px 20px 0px rgba(0, 0, 0,0.3);
 }
