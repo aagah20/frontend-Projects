@@ -16,21 +16,21 @@ Social Links Profile using HTML and CSS
 
 ### Screenshot
 
-![](./screenshot.jpg)
-
+Desktop
 ![alt text](image.png)
 
+Mobile
 ![alt text](image-2.png)
 
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: (https://aagah20.github.io/frontend-Projects/socialLinksProfile/)
 
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - (https://aagah20.github.io/frontend-Projects/socialLinksProfile/)
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
 
